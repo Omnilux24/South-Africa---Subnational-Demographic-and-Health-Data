@@ -1,6 +1,6 @@
 # South Africa Subnational Demographic and Health Data Analysis
 
-![South Africa](south-africa-image.jpg)
+![South Africa](south-african-flag.png)
 
 ## Overview
 
