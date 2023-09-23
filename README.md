@@ -26,13 +26,13 @@ The dataset includes the following columns:
 
 ### 1. Distribution of Indicators by Location
 
-![Distribution of Indicators by Location](images/distribution_by_location.png)
+![Distribution of Indicators by Location](counts.png)
 
 In this analysis, we visualize the distribution of different indicators by location within South Africa using a bar plot. This helps us understand how various indicators vary across subnational regions.
 
 ### 2. Stacked Bar Plot of Indicators by Location
 
-![Stacked Bar Plot of Indicators by Location](images/stacked_bar_plot.png)
+![Stacked Bar Plot of Indicators by Location](stacked.png)
 
 A stacked bar plot is created to show the distribution of indicators within each location. This visualization provides insights into the composition of indicators within each subnational region.
 
