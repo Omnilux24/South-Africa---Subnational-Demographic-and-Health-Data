@@ -51,7 +51,7 @@ To replicate the analysis or explore the dataset further, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/south-africa-demographic-data.git
+   git clone [https://github.com/omnilux/south-africa-demographic-data.git](https://github.com/Omnilux24/South-Africa---Subnational-Demographic-and-Health-Data)
    ```
 
 2. Install the required Python libraries by running:
@@ -77,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, suggestions, or collaborations, please contact [Your Name](info@tsakonovela.com).
+For questions, suggestions, or collaborations, please contact [Tsakonovela](info@tsakonovela.com).
 
 ---
 
